@@ -139,8 +139,8 @@ To ensure reliable operation in a live environment, the system went through iter
 
 ## Repository Structure
 ```text
-├── src/                  # Arduino C++ source code (.ino / .cpp)
-├── diagrams/             # Electrical schematics and wiring diagrams
-└── README.md             # Project documentation
+├── projector_controller.ino   # Arduino C++ firmware (replace with your exact .ino filename)
+└── README.md                  # Project documentation, Mermaid diagram, and wiring photos
 ```
+
 
